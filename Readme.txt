@@ -22,11 +22,6 @@ Image Frame and camera-lidar extrinsic calibration.
 segmentation.
 
 
-
-
-Link to Presentation:
-https://drive.google.com/file/d/1oQMAp2aKyjh_owTQnhN0_ChHB6nD1nlz/view?usp=sharing
-
 Link to Report:
 https://drive.google.com/file/d/1I8qeuT5yFvU-kK82aeNoJupUS8OElcug/view?usp=sharing
 
