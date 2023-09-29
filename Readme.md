@@ -26,11 +26,7 @@ segmentation.
 Link to Report:
 https://drive.google.com/file/d/1I8qeuT5yFvU-kK82aeNoJupUS8OElcug/view?usp=sharing
 
-[[Original Input Video]](https://drive.google.com/file/d/1sIGKNei4ddMTZVhBiFqDcmDX_lH1IDne/view?usp=sharing)
-
-Links to Output Videos:
-https://drive.google.com/file/d/1-bEhxWHko1F01NpxVgfj9bZg0vqWg1ck/view?usp=sharing
-https://drive.google.com/file/d/1OZMlq8hGZTL6rB26DwQgXkk1LNps2OSh/view?usp=sharing
-https://drive.google.com/file/d/1jCaJz7pN9qUhqiCtx2KNXgbFFuqf5HIa/view?usp=sharing
-https://drive.google.com/file/d/1kBOoeGkaspR_NpWTD3AxCkzfBeuKvtJL/view?usp=sharing,
-https://drive.google.com/file/d/1sIGKNei4ddMTZVhBiFqDcmDX_lH1IDne/view?usp=sharing
+[Original Input Video](https://drive.google.com/file/d/1jCaJz7pN9qUhqiCtx2KNXgbFFuqf5HIa/view?usp=sharing)
+[Point Cloud Data](https://drive.google.com/file/d/1OZMlq8hGZTL6rB26DwQgXkk1LNps2OSh/view?usp=sharing)
+[Segmentation Output](https://drive.google.com/file/d/1kBOoeGkaspR_NpWTD3AxCkzfBeuKvtJL/view?usp=sharing)
+[Point Cloud Lidar data fused with camera](https://drive.google.com/file/d/1sIGKNei4ddMTZVhBiFqDcmDX_lH1IDne/view?usp=sharing)
