@@ -26,9 +26,7 @@ segmentation.
 Link to Report:
 https://drive.google.com/file/d/1I8qeuT5yFvU-kK82aeNoJupUS8OElcug/view?usp=sharing
 
-Original Video : 
-
-[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://drive.google.com/file/d/1sIGKNei4ddMTZVhBiFqDcmDX_lH1IDne/view?usp=sharing))](https://drive.google.com/file/d/1sIGKNei4ddMTZVhBiFqDcmDX_lH1IDne/view?usp=sharing)
+[[Original Input Video]](https://drive.google.com/file/d/1sIGKNei4ddMTZVhBiFqDcmDX_lH1IDne/view?usp=sharing)
 
 Links to Output Videos:
 https://drive.google.com/file/d/1-bEhxWHko1F01NpxVgfj9bZg0vqWg1ck/view?usp=sharing
